@@ -1,0 +1,3 @@
+C:\Users\arant\source\repos\Starkillla\x64\Debug\raylib.dll
+C:\Users\arant\source\repos\Starkillla\x64\Debug\glfw3.dll
+C:\Users\arant\source\repos\Starkillla\Starkillla\x64\Debug\Starkill.74948070.Up2Date
